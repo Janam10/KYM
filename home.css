@@ -46,6 +46,7 @@
     margin-right: 200px;
     background-image: url("KYM\ LOGO2.jpeg");
     background-repeat: no-repeat;
+    background-size: contain;
    
     
     
@@ -87,7 +88,7 @@
     margin-right: 200px;
     background-image: url("plastics2 ");
     background-repeat: no-repeat;
-    
+    background-size: contain;
     
     
     
@@ -129,7 +130,7 @@
     margin-right: 200px;
     background-image: url("Back_to_Basics_1\ \(1\).png");
     background-repeat: no-repeat;
-   
+    background-size: contain;
     
     
     
@@ -171,7 +172,7 @@
     background-image: url("plastic-recycling-955x500.png");
     max-width: px;
     background-repeat: no-repeat;
-    
+    background-size: contain;
     
     
     
@@ -211,7 +212,7 @@
     margin-right: 200px;
     background-image: url("file-20190121-100270-1x9ccfo.jpg");
     background-repeat: no-repeat;
-    
+    background-size: contain;
     
     
     
