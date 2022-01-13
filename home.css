@@ -1,0 +1,250 @@
+
+
+   .header img {
+    float: left;
+    width: 130px;
+    height: 130px;
+    
+    
+    border-radius: 100%;
+  }
+  @media (max-width: 780px){
+  }
+  @media ( min-width: 992px){
+
+  }
+  *{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    
+  }
+  h1{
+    text-align: center;
+    font-size:100px;
+    color: #7DCEA0;
+    
+  }
+  .header{
+      background-color:darkmagenta;
+  }
+  h2{
+      text-align: center;
+      color: darkturquoise;
+  }
+  .box{
+    margin:0;
+    padding:0;
+    height: 250px;;
+    width:1000px;
+    border:solid black;
+    display:flex;
+    flex-direction:row;
+    margin-top:5px;
+    padding:50px;
+    transition: 0.3s;
+    margin-right: 200px;
+    background-image: url("KYM\ LOGO2.jpeg");
+    background-repeat: no-repeat;
+   
+    
+    
+    
+    
+    }
+    .box:hover{
+        transform:scale(1.05);
+        box-shadow: 0 0 46px -10px rgba(0,0,0,0.7);
+      }
+      
+      .box:hover{
+        margin:0;
+        padding:0;
+        height: 250px;
+        width:1000px;
+        border:solid #eee;
+        display:flex;
+        flex-direction:row;
+        background-image: url("Logo3_pic.jpg");
+        background-repeat: no-repeat;
+       margin-bottom: 20px;
+        padding:50px;
+        transition: 0.3s;
+        margin-right: 300px;
+        margin-top: 30px;
+   }
+   .box2{
+    margin:0;
+    padding:0;
+    height: 250px;;
+    width:1000px;
+    border:solid black;
+    display:flex;
+    flex-direction:row;
+    margin-top:5px;
+    padding:50px;
+    transition: 0.3s;
+    margin-right: 200px;
+    background-image: url("plastics2 ");
+    background-repeat: no-repeat;
+    
+    
+    
+    
+    }
+    .box2:hover{
+        transform:scale(1.05);
+        box-shadow: 0 0 46px -10px rgba(0,0,0,0.7);
+      }
+      
+      .box2:hover{
+        margin:0;
+        padding:0;
+        height: 250px;;
+        width:1000px;
+        border:solid #eee;
+        display:flex;
+        flex-direction:row;
+        background-image: url(" dreamstime_xxl_166298958");
+        background-repeat: no-repeat;
+        
+
+       margin-bottom: 20px;
+        padding:50px;
+        transition: 0.3s;
+        margin-right: 300px;
+        margin-top: 30px;
+   }
+   .box3{
+    margin:0;
+    padding:0;
+    height:250px;
+    width:1000px;
+    border:solid black;
+    display:flex;
+    flex-direction:row;
+    margin-top:5px;
+    padding:50px;
+    transition: 0.3s;
+    margin-right: 200px;
+    background-image: url("Back_to_Basics_1\ \(1\).png");
+    background-repeat: no-repeat;
+   
+    
+    
+    
+    
+    }
+    .box3:hover{
+        transform:scale(1.05);
+        box-shadow: 0 0 46px -10px rgba(0,0,0,0.7);
+      }
+      
+      .box3:hover{
+        margin:0;
+        padding:0;
+        height: 250px;
+        width:1000px;
+        border:solid #eee;
+        display:flex;
+        flex-direction:row;
+        background-image: url("plastic-bagless-bin.jpg");
+        background-repeat: no-repeat;
+       margin-bottom: 20px;
+        padding:50px;
+        transition: 0.3s;
+        margin-right: 300px;
+        margin-top: 30px;
+   }   
+   .box4{
+    margin:0;
+    padding:0;
+    height: 250px;;
+    width:1000px;
+    border:solid black;
+    display:flex;
+    flex-direction:row;
+    margin-top:5px;
+    padding:50px;
+    transition: 0.3s;
+    margin-right: 200px;
+    background-image: url("plastic-recycling-955x500.png");
+    max-width: px;
+    background-repeat: no-repeat;
+    
+    
+    
+    
+    }
+    .box4:hover{
+        transform:scale(1.05);
+        box-shadow: 0 0 46px -10px rgba(0,0,0,0.7);
+      }
+      
+      .box4:hover{
+        margin:0;
+        padding:0;
+        height: 250px;
+        width:1000px;
+        border:solid #eee;
+        display:flex;
+        flex-direction:row;
+        background-image: url("recycle\ sustainability-green-illo-GettyImages-471257480-1540_0.jpg");
+        background-repeat: no-repeat;
+       margin-bottom: 20px;
+        padding:50px;
+        transition: 0.3s;
+        margin-right: 300px;
+        margin-top: 30px;
+   }
+   .box5{
+    margin:0;
+    padding:0;
+    height: 250px;
+    width:1000px;
+    border:solid black;
+    display:flex;
+    flex-direction:row;
+    margin-top:5px;
+    padding:50px;
+    transition: 0.3s;
+    margin-right: 200px;
+    background-image: url("file-20190121-100270-1x9ccfo.jpg");
+    background-repeat: no-repeat;
+    
+    
+    
+    
+    }
+    .box5:hover{
+        transform:scale(1.05);
+        box-shadow: 0 0 46px -10px rgba(0,0,0,0.7);
+      }
+      
+      .box5:hover{
+        margin:0;
+        padding:0;
+        height: 250px;;
+        width:1000px;
+        border:solid #eee;
+        display:flex;
+        flex-direction:row;
+        background-image: url("Recycle-right-.jpg");
+        background-position:50%;
+        background-repeat: no-repeat;
+       margin-bottom: 20px;
+        padding:50px;
+        transition: 0.3s;
+        margin-right: 300px;
+        margin-top: 30px;
+   }
+
+   
+
+   
+
+   
+
+   
+
+   
