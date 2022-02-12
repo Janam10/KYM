@@ -40,6 +40,20 @@ h2{
     border:solid #eee;
     width:96%;
 }
+/*     SHOW TEXT ON HOVER     */
+.hidden{
+    display: none;
+    color: #000;
+    font-size: 22px;
+    color: #f7f7f7;
+    text-shadow: 0px 0px 2px #000,
+    0px 0px 2px #000,
+    0px 0px 2px #000;
+    -webkit-text-stroke: 0.1px #000;
+}
+.box:hover .hidden{
+    display: block;
+}
 .box1{
     background-image: url("KYM\ LOGO2.jpeg");
 }
